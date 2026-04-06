@@ -1,0 +1,653 @@
+[
+  {
+    "title": "Ahava - Mineral Body Lotion",
+    "url": "https://www.ahava.com",
+    "description": "Formulated with minerals from the Dead Sea; also available as anti dandruff shampoo",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0561/2378/5385/files/AHAVA.jpg?v=1634646712"
+  },
+  {
+    "title": "Amlactin - Body Lotion",
+    "url": "https://www.amlactin.com",
+    "description": "12% lactic acid (AHA) lotion and cream; also available as XL no-sting formula",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0755/2578/3858/files/Preview_Image-2.png?v=1738855089"
+  },
+  {
+    "title": "Aquaphor - Healing Ointment",
+    "url": "https://www.aquaphorus.com/",
+    "description": "Thick, mild petroleum-based ointment",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.aquaphor.com/~/media/aquaphor/images/logo/aquaphor-logo.png"
+  },
+  {
+    "title": "Aveeno - Oatmeal Daily Moisturizing Lotion",
+    "url": "https://www.aveeno.com",
+    "description": "Colloidal oatmeal lotion; also available as Anti-itch Cream",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://images.ctfassets.net/mgaihfszrtka/lmohsLgdeVVlZFYuwCayc/bb7f43bf46ce67542be9b80cc0e0aad3/Aveeno_the_Power_of_Oat_for_Sensitive_Skin.png"
+  },
+  {
+    "title": "Avon - Moisture Therapy Intensive Body Lotion",
+    "url": "https://www.avon.com",
+    "description": "Active ingredient dimethicone; also available as Hand Cream",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.avon.com/assets/avon-logo.jpg"
+  },
+  {
+    "title": "Bio-Derma",
+    "url": "https://www.bioderma.us",
+    "description": "Dermatological skincare products",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.bioderma.us/sites/us/files/logo_bioderma.png"
+  },
+  {
+    "title": "Body Shop - Body Butter",
+    "url": "https://www.thebodyshop.com",
+    "description": "Rich body creams with natural plant and nut oils in varieties including cocoa, olive oil, coconut, mango, and papaya",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The-body-shop-logo.svg/1280px-The-body-shop-logo.svg.png"
+  },
+  {
+    "title": "Burt's Bees - Buttermilk Lotion",
+    "url": "https://www.burtsbees.com",
+    "description": "Lightweight and mild lotion",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.burtsbees.com/public/icons/apple-touch-icon.png"
+  },
+  {
+    "title": "CeraVe - SA Lotion/Cream",
+    "url": "https://www.cerave.com/",
+    "description": "SA lotion and cream for rough and bumpy skin",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CeraVe_logo.svg/1280px-CeraVe_logo.svg.png"
+  },
+  {
+    "title": "Cutemol - Emollient Skin Cream",
+    "url": "https://www.sumlab.com",
+    "description": "Emollient cream for dry skin",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": ""
+  },
+  {
+    "title": "Dermal Therapy - Alpha Hydroxy Lotion",
+    "url": "https://www.dermatherapy.com",
+    "description": "Extensive line of dry skin products with lactic acid and urea; also available as Hand/Elbow/Knee Care and Heel Care",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://cdn.shopify.com/s/files/1/1649/3217/files/derma-therapy.png?height=628&pad_color=fff&v=1613678282&width=1200"
+  },
+  {
+    "title": "Dexeryl Emollient Cream",
+    "url": "https://www.dexeryl.com",
+    "description": "Hydrates, nourishes skin barrier",
+    "category": "Creams, Lotions & Moisturizing Products"
+  },
+  {
+    "title": "DML Forte Cream",
+    "url": "https://personandcovey.com/",
+    "description": "Fragrance and dye-free formula by Person & Covey",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "http://personandcovey.com/cdn/shop/files/Purchase_Inserts_11c2bc71-fcd8-4441-8b1c-068b22394caa_1200x1200.png?v=1661436188"
+  },
+  {
+    "title": "Dorothy's Skin Oil",
+    "url": "https://www.originalskinoil.com",
+    "description": "Soothing with pleasing fragrance, absorbs well",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://originalskinoil.com/wp-content/uploads/2017/03/cropped-Dorothy-blue.png"
+  },
+  {
+    "title": "Ecco Bella - Vanilla Herbal Lotion",
+    "url": "https://www.eccobella.com",
+    "description": "Skin and hair products from organic oils, aloe, herbs, and natural minerals; also available as Hair & Scalp Therapy",
+    "category": "Creams, Lotions & Moisturizing Products"
+  },
+  {
+    "title": "Elta - Moisturizer Cream",
+    "url": "https://www.buyelta.com",
+    "description": "Mild mineral oil-based moisturizer; also available as Lite Lotion",
+    "category": "Creams, Lotions & Moisturizing Products"
+  },
+  {
+    "title": "Eucerin - Roughness Relief Cream",
+    "url": "https://www.eucerin.com",
+    "description": "Contains urea and ceramides, not as thick as regular Eucerin, but thicker than Eucerin Advanced Repair",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eucerin-Logo.svg/1280px-Eucerin-Logo.svg.png"
+  },
+  {
+    "title": "Eucerin - Advanced Repair Cream",
+    "url": "https://www.eucerin.com",
+    "description": "Contains urea and ceramides, lighter than Eucerin Roughness Relief",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eucerin-Logo.svg/1280px-Eucerin-Logo.svg.png"
+  },
+  {
+    "title": "Gold Bond - Ultimate Healing Lotion",
+    "url": "https://www.goldbond.com/",
+    "description": "Contains 7 intensive moisturizers, 3 essential vitamins, plus aloe for 24-hour hydration",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/2/27/Gold_Bond_logo.png"
+  },
+  {
+    "title": "Hemp Foot Protector - The Body Shop",
+    "url": "https://www.thebodyshop.com",
+    "description": "Foot cream with natural oils and vitamins",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The-body-shop-logo.svg/1280px-The-body-shop-logo.svg.png"
+  },
+  {
+    "title": "J.R. Watkins - All Purpose Facial Cream",
+    "url": "https://jrwatkins.com/",
+    "description": "Multi-purpose facial moisturizer",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://jrwatkins.com/wp-content/uploads/2025/12/social-share.webp"
+  },
+  {
+    "title": "Keri - Moisture Therapy Lotion",
+    "url": "https://www.kerilotion.com",
+    "description": "Mineral oil and glycerin lotion for dry and sensitive skin",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://kerilotion.com/wp-content/uploads/2021/09/logo.svg"
+  },
+  {
+    "title": "Kiehl's - Crème d'Elegance Repairateur",
+    "url": "https://www.kiehls.com",
+    "description": "Rich face cream",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kiehls_logo.svg/1280px-Kiehls_logo.svg.png"
+  },
+  {
+    "title": "Kiss My Face - Vitamin A & E Moisturizer",
+    "url": "https://www.kissmyface.com",
+    "description": "All-natural body care from vegetable, nut, and fruit oils; also available as Peaches & Cream with 4% AHA",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "http://kissmyface.com/cdn/shop/files/KMF_LOGO_NEW_FEB242021-01_1200x1200.jpg?v=1661809190"
+  },
+  {
+    "title": "Lac-Hydrin",
+    "url": "",
+    "description": "Lactic acid (AHA) cream and lotion in 5% and 12% strengths; 12% available by prescription only",
+    "category": "Creams, Lotions & Moisturizing Products"
+  },
+  {
+    "title": "Lay It On Thick (True Blue Spa)",
+    "url": "https://www.bathandbodyworks.com",
+    "description": "Intense moisture body cream with shea butter",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bath_%26_Body_Works_logo.svg/1280px-Bath_%26_Body_Works_logo.svg.png"
+  },
+  {
+    "title": "LaRoche Posay",
+    "url": "https://www.laroche-posay.us",
+    "description": "Dermatological skincare products",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/La_Roche-Posay_logo.svg/1280px-La_Roche-Posay_logo.svg.png"
+  },
+  {
+    "title": "Lubriderm - Skin Therapy",
+    "url": "https://www.lubriderm.com/",
+    "description": "Variety of moisturizing products including Advanced Skin Therapy",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lubriderm_logo.png"
+  },
+  {
+    "title": "Melrose - Hand & Skin Cream",
+    "url": "https://www.melrosecream.com",
+    "description": "Rich soothing moisturizer",
+    "category": "Creams, Lotions & Moisturizing Products"
+  },
+  {
+    "title": "Neostrata 15 - Lotion Plus AHA 15",
+    "url": "https://www.neostrata.com",
+    "description": "15% glycolic acid lotion; also available as gel",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.neostrata.com/on/demandware.static/-/Sites-jnj-Library/default/neostrata/images/neostrata-logo.png"
+  },
+  {
+    "title": "Neostrata - Problem Dry Skin Products",
+    "url": "https://www.neostrata.com",
+    "description": "Contains alpha and poly hydroxyacids in regular and extra strength; also available as Scalp Solution",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.neostrata.com/on/demandware.static/-/Sites-jnj-Library/default/neostrata/images/neostrata-logo.png"
+  },
+  {
+    "title": "Nivea - Cream",
+    "url": "https://www.niveausa.com",
+    "description": "Mild moisturizing products; also available as Extra Enriched Lotion Formula",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://img.nivea.com/-/media/niveax/icons/logos/brandmark_600x332.png?rx=1&ry=0&rw=598&rh=332&hash=D8DC2EA2C9A837EA8225C62EED44CDBC"
+  },
+  {
+    "title": "Shikai - Borage Therapy",
+    "url": "http://www.shikai.com/",
+    "description": "OMEGA-6 products formulated to relieve dry cracked skin and promote healthy new skin cells",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0434/3663/8373/files/shikai_oval_transparent_back-02.png?v=1751301873"
+  },
+  {
+    "title": "SR Lotion - G-16 Lotion",
+    "url": "https://srlotion.com/",
+    "description": "Blend of alpha-hydroxy acids with jojoba oil, vitamins A, B5, and E",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://cdn.prod.website-files.com/68ac326ec4aa936f293d5dfa/68b73d874058e8e0c069da3c_G16%20bottle%20in%20hand.png"
+  },
+  {
+    "title": "St. Ives - Daily Hydrating Vitamin E Lotion",
+    "url": "https://www.stives.com/",
+    "description": "Nutrient-rich hydration with vitamin E for immediate moisture",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Ives_logo.png"
+  },
+  {
+    "title": "Theraplex - Clear Lotion",
+    "url": "https://www.theraplex.com/",
+    "description": "Non-greasy, petroleum-based moisturizers; also available as Emollient and Hydrolotion",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": ""
+  },
+  {
+    "title": "Vanicream - Daily Facial Moisturizer",
+    "url": "https://www.vanicream.com/",
+    "description": "Gentle moisturizer; also available as Moisturizing Cream",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://www.vanicream.com/assets/favicons/apple-touch-icon.png"
+  },
+  {
+    "title": "Vaseline Skin Care Products",
+    "url": "https://www.vaseline.com/",
+    "description": "Vaseline skin care products",
+    "category": "Creams, Lotions & Moisturizing Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vaseline_Logo.svg/1280px-Vaseline_Logo.svg.png"
+  },
+  {
+    "title": "Lacrilube - S.O.S. Lubricant Eye Ointment",
+    "url": "https://www.refresheyedrops.com/",
+    "description": "Lubricant eye drops and ointment",
+    "category": "Eye Care Products"
+  },
+  {
+    "title": "Tears Naturale Free - Lubricant Eye Drops",
+    "url": "https://www.alcon.com/",
+    "description": "Preservative-free lubricant eye drops",
+    "category": "Eye Care Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alcon_logo.svg/1280px-Alcon_logo.svg.png"
+  },
+  {
+    "title": "Debrox - Drops Ear Wax Removal Aid",
+    "url": "",
+    "description": "6.5% carbamide peroxide drops. Available at retail stores nationwide",
+    "category": "Ear Care Products"
+  },
+  {
+    "title": "eosera Ear Itch MD",
+    "url": "https://www.eosera.com/",
+    "description": "Fast-acting ear drop spray with a soothing formula that naturally moisturizes the ear canal while calming dry skin",
+    "category": "Ear Care Products",
+    "ogImage": "http://www.eosera.com/cdn/shop/files/EOSERA_PRODUCT017.jpg?v=1749370613"
+  },
+  {
+    "title": "Eosera Ear Wax MD",
+    "url": "https://www.eosera.com/",
+    "description": "A kit designed to dissolve, not just soften, stubborn wax and associated debris",
+    "category": "Ear Care Products",
+    "ogImage": "http://www.eosera.com/cdn/shop/files/EOSERA_PRODUCT017.jpg?v=1749370613"
+  },
+  {
+    "title": "Ototek Loop",
+    "url": "https://www.ototekloop.com",
+    "description": "Flexible plastic loop with ear guard for ear cleaning",
+    "category": "Ear Care Products",
+    "ogImage": "https://ototekloop.com/wp-content/uploads/2022/03/Ototek_box_mockup-768x1024.png"
+  },
+  {
+    "title": "Aquaphor - Lip Repair",
+    "url": "https://www.aquaphorus.com/",
+    "description": "Thick, mild petroleum-based lip ointment",
+    "category": "Lip Care Products",
+    "ogImage": "https://www.aquaphor.com/~/media/aquaphor/images/logo/aquaphor-logo.png"
+  },
+  {
+    "title": "Blistex - Lip Balm",
+    "url": "https://www.blistex.com",
+    "description": "Moisturizing lip balm",
+    "category": "Lip Care Products",
+    "ogImage": "https://blistex.com/wp-content/themes/blistex/dist/assets/images/blistex-logo-red.png"
+  },
+  {
+    "title": "Burt's Bees - Lip Balm",
+    "url": "https://www.burtsbees.com",
+    "description": "Natural lip balm",
+    "category": "Lip Care Products",
+    "ogImage": "https://www.burtsbees.com/public/icons/apple-touch-icon.png"
+  },
+  {
+    "title": "Carmex - Moisturizing Lip Balm",
+    "url": "https://www.mycarmex.com",
+    "description": "Classic moisturizing lip treatment",
+    "category": "Lip Care Products",
+    "ogImage": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_180,h_180/https://www.mycarmex.com/wp-content/uploads/2025/09/favicon1.png"
+  },
+  {
+    "title": "Chapstick - Ultra Moisturizing Lip Balm",
+    "url": "https://www.chapstick.com",
+    "description": "Ultra-moisturizing lip balm",
+    "category": "Lip Care Products",
+    "ogImage": "http://www.chapstick.com/cdn/shop/files/chapstick-logo_1200x1200.jpg?v=1717693581"
+  },
+  {
+    "title": "Lucas Papaw - Ointment",
+    "url": "http://lucaspapaw.com.au/",
+    "description": "Papaw extract in paraffin base",
+    "category": "Lip Care Products",
+    "ogImage": "http://lucaspapaw.com.au/cdn/shop/files/trusted_for_over_110_years.jpg?v=1710718250"
+  },
+  {
+    "title": "Vaseline - Lip Therapy",
+    "url": "http://www.vaseline.us/",
+    "description": "Lip therapy and petroleum jelly for lips",
+    "category": "Lip Care Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vaseline_Logo.svg/1280px-Vaseline_Logo.svg.png"
+  },
+  {
+    "title": "Nail Tek - Formulation III Protection Plus",
+    "url": "https://www.nailtek.com",
+    "description": "Products for peeling, splitting nails",
+    "category": "Nail Care Products"
+  },
+  {
+    "title": "Body Buddy",
+    "url": "https://www.bodybuddy.com",
+    "description": "Non-absorbent lotion applicator in various colors",
+    "category": "Bandages & Accessories",
+    "ogImage": "https://bodybuddy.com/wp-content/uploads/2022/11/cropped-bb_fav-180x180.png"
+  },
+  {
+    "title": "Nexcare - First Aid Waterproof Bandages",
+    "url": "https://www.nexcare.com/",
+    "description": "Flexible latex bandages",
+    "category": "Bandages & Accessories",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/3M_wordmark.svg/1280px-3M_wordmark.svg.png"
+  },
+  {
+    "title": "Vetrap - Bandaging Tape",
+    "url": "https://www.3m.com/",
+    "description": "Self-adherent bandaging tape that doesn't absorb moisture; used for veterinary care so less expensive",
+    "category": "Bandages & Accessories",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/3M_wordmark.svg/1280px-3M_wordmark.svg.png"
+  },
+  {
+    "title": "Alpha-Hydroxy - Moisturizing Body Wash",
+    "url": "https://www.alphahydrox.com",
+    "description": "Alpha-hydroxy acid body wash for gentle exfoliation",
+    "category": "Cleansers & Soaps",
+    "ogImage": "http://www.alphaskin.com/cdn/shop/files/Alpha_Skin_Care_logo_2.png?height=628&pad_color=ffffff&v=1694630456&width=1200"
+  },
+  {
+    "title": "Amish Farm Soap - Handcrafted Soap",
+    "url": "https://www.amishfarmsoap.com/",
+    "description": "Vegan and cruelty-free handcrafted soaps based on traditional Amish recipe",
+    "category": "Cleansers & Soaps",
+    "ogImage": "https://static.wixstatic.com/media/e34812_40a2168f4180401bbd7ac91e58472b9b%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e34812_40a2168f4180401bbd7ac91e58472b9b%7Emv2.png"
+  },
+  {
+    "title": "Aveeno - Daily Moisturizing Foaming Bath",
+    "url": "https://www.aveeno.com",
+    "description": "Colloidal oatmeal foaming bath for dry, sensitive skin",
+    "category": "Cleansers & Soaps",
+    "ogImage": "https://images.ctfassets.net/mgaihfszrtka/lmohsLgdeVVlZFYuwCayc/bb7f43bf46ce67542be9b80cc0e0aad3/Aveeno_the_Power_of_Oat_for_Sensitive_Skin.png"
+  },
+  {
+    "title": "Cetaphil - Gentle Skin Cleanser",
+    "url": "https://www.galderma.com",
+    "description": "Gentle cleanser for sensitive skin; also available in antibacterial cleansing bar",
+    "category": "Cleansers & Soaps",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cetaphil_logo.svg/1280px-Cetaphil_logo.svg.png"
+  },
+  {
+    "title": "Vanicream - Free & Clear Shampoo",
+    "url": "https://www.vanicream.com/",
+    "description": "Gentle shampoo free of irritating ingredients",
+    "category": "Cleansers & Soaps",
+    "ogImage": "https://www.vanicream.com/assets/favicons/apple-touch-icon.png"
+  },
+  {
+    "title": "Kiss My Face - Pure Olive Oil Bar Soap",
+    "url": "https://www.kissmyface.com",
+    "description": "Olive oil formula bar soap for gentle cleansing",
+    "category": "Cleansers & Soaps",
+    "ogImage": "http://kissmyface.com/cdn/shop/files/KMF_LOGO_NEW_FEB242021-01_1200x1200.jpg?v=1661809190"
+  },
+  {
+    "title": "TopMD - CLn Body Wash",
+    "url": "http://www.clnwash.com/",
+    "description": "Advanced skincare and therapeutic cleansing products",
+    "category": "Cleansers & Soaps",
+    "ogImage": "http://www.clnwash.com/cdn/shop/files/Copy_of_Copy_of_Copy_of_Facebook_cover_832818f3-83a8-46c3-abad-9bfb0efd9304_1200x628.png?v=1626978983"
+  },
+  {
+    "title": "Vanicream - Gentle Body Wash",
+    "url": "https://www.vanicream.com/",
+    "description": "Gentle body wash for sensitive skin; also available as facial cleanser and shampoo",
+    "category": "Cleansers & Soaps",
+    "ogImage": "https://www.vanicream.com/assets/favicons/apple-touch-icon.png"
+  },
+  {
+    "title": "Derma-Smoothe FS - Scalp Oil",
+    "url": "https://www.hillderm.com",
+    "description": "Prescription-only synthetic corticosteroid for scalp conditions",
+    "category": "Scalp Care Products",
+    "ogImage": ""
+  },
+  {
+    "title": "DHS Shampoo and Conditioning Rinse",
+    "url": "https://personandcovey.com/",
+    "description": "Shampoo and conditioning rinse by Person & Covey",
+    "category": "Scalp Care Products",
+    "ogImage": "http://personandcovey.com/cdn/shop/files/Purchase_Inserts_11c2bc71-fcd8-4441-8b1c-068b22394caa_1200x1200.png?v=1661436188"
+  },
+  {
+    "title": "Neutrogena - Healthy Scalp Shampoo",
+    "url": "https://www.neutrogena.com",
+    "description": "Anti-dandruff formula for scalp health",
+    "category": "Scalp Care Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neutrogena_logo.svg/1280px-Neutrogena_logo.svg.png"
+  },
+  {
+    "title": "Neutrogena - T/Sal Maximum Strength Shampoo",
+    "url": "https://www.neutrogena.com",
+    "description": "Maximum relief for itchy, flaky scalp",
+    "category": "Scalp Care Products",
+    "ogImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neutrogena_logo.svg/1280px-Neutrogena_logo.svg.png"
+  },
+  {
+    "title": "Nizoral - Shampoo",
+    "url": "https://www.nizoral.com",
+    "description": "Prescription-only 2% ketoconazole for itchy, flaky scalps",
+    "category": "Scalp Care Products",
+    "ogImage": "https://nizoral.com/wp-content/uploads/2021/03/nizoral-screenshot_homepage.jpg"
+  },
+  {
+    "title": "Sphagnum Botanicals - PsoriAid Shampoo",
+    "url": "https://sphagnumbotanicals.com",
+    "description": "Gentle, natural formula reduces scaling",
+    "category": "Scalp Care Products",
+    "ogImage": "https://sphagnumbotanicals.com/wp-content/uploads/2022/11/pais1280x800.jpg"
+  },
+  {
+    "title": "Scalpicin - Anti-itch Scalp Treatment",
+    "url": "https://www.scalpicin.com",
+    "description": "Medicated leave-in treatment with 3% salicylic acid",
+    "category": "Scalp Care Products",
+    "ogImage": "https://eu-images.contentstack.com/v3/assets/blt5088c07559fc83f1/blte51b4b1364f84b43/67c8311689e5239a39d1c989/main_image2.jpg"
+  },
+  {
+    "title": "Scalpicin - Maximum Strength Anti-itch",
+    "url": "https://www.scalpicin.com",
+    "description": "Leave-in treatment with 1% hydrocortisone",
+    "category": "Scalp Care Products",
+    "ogImage": "https://eu-images.contentstack.com/v3/assets/blt5088c07559fc83f1/blte51b4b1364f84b43/67c8311689e5239a39d1c989/main_image2.jpg"
+  },
+  {
+    "title": "Vive Naturals - Leave in Scalp Cream",
+    "url": "https://www.vivenaturals.com",
+    "description": "Leave-in scalp conditioning cream",
+    "category": "Scalp Care Products",
+    "ogImage": "http://vivenaturals.com/cdn/shop/files/ad-logo.png?v=1747278596"
+  },
+  {
+    "title": "Microdermamitt",
+    "url": "https://www.microdermamitt.com",
+    "description": "Reusable 100% natural body mitt that deeply exfoliates using only water",
+    "category": "Exfoliation Tools",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0291/7394/0276/files/Facebook_Logo_a66ece96-e4a2-4323-bebf-a55ccf5d57e8.png?v=1619480988"
+  },
+  {
+    "title": "Norwex - Microfiber Cloths",
+    "url": "https://www.norwex.com",
+    "description": "Microfiber cloths for gentle exfoliation",
+    "category": "Exfoliation Tools",
+    "ogImage": "https://www.norwex.com/assets/img/nori/norwex-favicon-light.png"
+  },
+  {
+    "title": "Dremel - Rotary Tool with Sanding Discs",
+    "url": "https://www.dremel.com/",
+    "description": "Cordless models with variable speeds can be used by adults on thick feet scaling",
+    "category": "Exfoliation Tools",
+    "ogImage": "https://www.dremel.com/images/image--224e564d5ed34dd98ccd89a05d919827.jpg?imgWidth=800&scale=1"
+  },
+  {
+    "title": "Ped Egg - Foot File",
+    "url": "https://pedeggofficial.com/",
+    "description": "Rasp-style foot exfoliation tool with easy-to-use design",
+    "category": "Exfoliation Tools",
+    "ogImage": "https://pedeggofficial.com/wp-content/uploads/2025/03/3.2-Ped-Egg.webp"
+  },
+  {
+    "title": "Water Sticks",
+    "url": "https://watersticks.com/",
+    "description": "Shower head water softeners",
+    "category": "Hydrotherapy & Bath Products",
+    "ogImage": "https://watersticks.com/wp-content/uploads/2024/11/ShowerStick-Hanger.jpg"
+  },
+  {
+    "title": "Bimini Hydrotherapy",
+    "url": "https://www.biminihydrotherapy.com",
+    "description": "Hydrotherapy products and services",
+    "category": "Hydrotherapy & Bath Products",
+    "ogImage": "https://customer-assets.emergentagent.com/job_hydro-portal-1/artifacts/t6rvti7b_Bimini_Logo_Final_High_B%20%281%29%20%281%29.png"
+  },
+  {
+    "title": "Hydrogen4Health",
+    "url": "https://www.hydrogen4health.com",
+    "description": "Hydrogen-infused health and bath products",
+    "category": "Hydrotherapy & Bath Products",
+    "ogImage": "https://i0.wp.com/hydrogen4health.com/wp-content/uploads/2024/05/logo2_1-1.png?fit=115%2C100&#038;ssl=1"
+  },
+  {
+    "title": "Jason - Hydrotherapy Bath",
+    "url": "https://www.jasoninternational.com/",
+    "description": "Free-standing and installed hydrotherapy tubs with over 30 years of innovation",
+    "category": "Hydrotherapy & Bath Products"
+  },
+  {
+    "title": "NuWhirl Systems Corp",
+    "url": "https://www.nuwhirl.com",
+    "description": "Hydrotherapy bath systems",
+    "category": "Hydrotherapy & Bath Products"
+  },
+  {
+    "title": "Circulair - Misting Fan",
+    "url": "https://www.O2-cool.com",
+    "description": "Manual and battery-operated misting fans; also available as Fan & Sip with hydration pack",
+    "category": "Cooling & Sun Protection Products"
+  },
+  {
+    "title": "Gempler's - Sun Protection Products",
+    "url": "https://www.gemplers.com",
+    "description": "Cooling hats, vests, and fanny packs with water bottles",
+    "category": "Cooling & Sun Protection Products",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0073/1797/9225/files/gemplers_share_image.jpg?v=1738471242"
+  },
+  {
+    "title": "Glacier Tek - Cooling Gear and Accessories",
+    "url": "https://www.glaciertek.com",
+    "description": "Cooling gear and accessories",
+    "category": "Cooling & Sun Protection Products",
+    "ogImage": "https://glaciertek.com/cdn/shop/files/GT_Tagline_Default_2345x630.png?v=1643743237"
+  },
+  {
+    "title": "Polar Products - Cooling Apparel",
+    "url": "https://www.polarproducts.com",
+    "description": "Original Polar Neck Tie and Superpro Cool Vest (adjustable one size fits all)",
+    "category": "Cooling & Sun Protection Products"
+  },
+  {
+    "title": "Solumbra Hats and Clothing",
+    "url": "https://www.sunprecautions.com",
+    "description": "Sun protective hats and clothing",
+    "category": "Cooling & Sun Protection Products"
+  },
+  {
+    "title": "Wallaroo Hats",
+    "url": "https://www.wallaroohats.com",
+    "description": "Sun protective hats",
+    "category": "Cooling & Sun Protection Products",
+    "ogImage": "https://wallaroohats.com/cdn/shop/files/Wallaroo_Logo_Horiz_navy.png"
+  },
+  {
+    "title": "Artic Cool",
+    "url": "https://www.arcticcool.com",
+    "description": "Cooling shirts and accessories",
+    "category": "Special Clothing",
+    "ogImage": "https://arcticcool.com/cdn/shop/files/favicon.png?v=1613767402&width=180"
+  },
+  {
+    "title": "Tyvek Suits - Clothing for Occlusion",
+    "url": "https://www.gemplers.com",
+    "description": "Tyvek suits can be used for occlusion therapy",
+    "category": "Special Clothing",
+    "ogImage": "https://cdn.shopify.com/s/files/1/0073/1797/9225/files/gemplers_share_image.jpg?v=1738471242"
+  },
+  {
+    "title": "Boy Scout - Thorlos Hiking Socks",
+    "url": "https://www.scoutstuff.org",
+    "description": "Daily use socks that prevent blisters",
+    "category": "Special Clothing"
+  },
+  {
+    "title": "Kushies - Baby Products",
+    "url": "https://www.kushies.com",
+    "description": "All-cotton diaper and baby clothing products",
+    "category": "Special Clothing",
+    "ogImage": "https://kushiesonline.ca/cdn/shop/files/Kushies_Logo_Gold_2020-01_e423b1bb-c1f4-4c70-b608-8f2e522046f3_1200x.png?v=1622041988"
+  },
+  {
+    "title": "Brrr - Cooling Fabric",
+    "url": "https://www.brrr.com",
+    "description": "Leader in cooling fabric technology",
+    "category": "Special Clothing",
+    "ogImage": "https://www.brrr.com/wp-content/uploads/2024/05/cooling-minerals.png"
+  },
+  {
+    "title": "Columbia - Cooling Technology Apparel",
+    "url": "https://www.columbia.com",
+    "description": "Apparel with cooling technology",
+    "category": "Special Clothing",
+    "ogImage": "https://media.columbia.com/i/columbiasprtswr/0907-launch_UShomepageOG?$img-cache$&fmt=auto"
+  },
+  {
+    "title": "Coolibar - Sun Protective Clothing",
+    "url": "https://www.coolibar.com",
+    "description": "Sun protective clothing",
+    "category": "Special Clothing",
+    "ogImage": "http://www.coolibar.com/cdn/shop/files/New-OG-IMG-1200x630.jpg?v=1774297578"
+  },
+  {
+    "title": "Free Fly - UPF Clothing",
+    "url": "https://freeflyapparel.com/",
+    "description": "Bamboo clothing offering UPF protection with super-soft handfeel",
+    "category": "Special Clothing",
+    "ogImage": "http://freeflyapparel.com/cdn/shop/files/GG_Nav_Mobile_copy.webp?v=1762965340"
+  }
+]

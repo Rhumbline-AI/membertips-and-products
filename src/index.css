@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import "./components/styles.css";
+@config "../tailwind.config.js";
+
+@theme {
+  --color-brand-light: #e0f4fc;
+  --color-brand-mid: #b5e5f7;
+  --color-brand-accent: #00a8d6;
+  --color-card-bg: #ffffff;
+  --color-sidebar-bg: #f0f9fd;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#fsf-product-grid {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #dff1f9 0%, #c8e8f5 50%, #aed5ec 100%);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1f2937;
+  padding: 32px 24px;
+}
