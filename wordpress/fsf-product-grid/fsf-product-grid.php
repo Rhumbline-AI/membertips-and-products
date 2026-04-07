@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: FSF Product Grid
- * Description: Embeds a filterable grid of member-recommended products with an admin UI for managing products.
+ * Plugin Name: FIRST Member Tips
+ * Description: Displays a filterable grid of member-recommended products and tips with an admin UI for managing products.
  * Version:     1.1.0
  * Author:      Rhumbline AI
  * License:     GPL v2 or later
@@ -21,11 +21,24 @@ class FSF_Product_Grid {
         $this->images_dir = plugin_dir_path( __FILE__ ) . 'images/';
         $this->images_url = plugin_dir_url( __FILE__ ) . 'images/';
 
+        $this->maybe_seed_data();
+
         add_shortcode( 'fsf_product_grid', array( $this, 'render_shortcode' ) );
         add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_assets' ) );
         add_action( 'admin_menu', array( $this, 'admin_menu' ) );
         add_action( 'admin_init', array( $this, 'handle_admin_actions' ) );
         add_action( 'admin_enqueue_scripts', array( $this, 'enqueue_admin_assets' ) );
+    }
+
+    private function maybe_seed_data() {
+        if ( file_exists( $this->data_file ) ) {
+            return;
+        }
+        $seed = plugin_dir_path( __FILE__ ) . 'app/products-seed.json';
+        if ( file_exists( $seed ) ) {
+            wp_mkdir_p( dirname( $this->data_file ) );
+            copy( $seed, $this->data_file );
+        }
     }
 
     /* ------------------------------------------------------------------ */
@@ -116,6 +129,7 @@ class FSF_Product_Grid {
     public function inject_config() {
         $config = array(
             'imagesUrl' => esc_url_raw( $this->images_url ),
+            'dataUrl'   => esc_url_raw( plugin_dir_url( __FILE__ ) . 'app/products.json' ),
         );
         echo '<script>window.fsfConfig=' . wp_json_encode( $config ) . ';</script>';
     }
@@ -207,6 +221,10 @@ class FSF_Product_Grid {
             } else {
                 $products[] = $product;
             }
+
+            usort( $products, function( $a, $b ) {
+                return strnatcasecmp( $a['title'] ?? '', $b['title'] ?? '' );
+            } );
 
             $this->write_products( $products );
             $msg = 'edit' === $action ? 'updated' : 'added';

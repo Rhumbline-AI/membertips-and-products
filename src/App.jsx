@@ -1,5 +1,5 @@
-import { useState, useMemo } from 'react'
-import products from './data/products.json'
+import { useState, useMemo, useEffect } from 'react'
+import fallbackProducts from './data/products.json'
 import FilterSidebar from './components/FilterSidebar'
 import ProductGrid from './components/ProductGrid'
 import Pagination from './components/Pagination'
@@ -19,15 +19,31 @@ function buildCategoryMap(products) {
 }
 
 export default function App() {
+  const [products, setProducts] = useState(fallbackProducts)
   const [selectedCategories, setSelectedCategories] = useState([])
   const [currentPage, setCurrentPage] = useState(1)
 
-  const categories = useMemo(() => buildCategoryMap(products), [])
+  useEffect(() => {
+    const cfg = window.fsfConfig || {}
+    if (cfg.dataUrl) {
+      fetch(cfg.dataUrl, { cache: 'no-store' })
+        .then((r) => r.ok ? r.json() : null)
+        .then((data) => {
+          if (Array.isArray(data) && data.length > 0) {
+            data.sort((a, b) => (a.title || '').localeCompare(b.title || ''))
+            setProducts(data)
+          }
+        })
+        .catch(() => { /* keep fallback */ })
+    }
+  }, [])
+
+  const categories = useMemo(() => buildCategoryMap(products), [products])
 
   const filtered = useMemo(() => {
     if (selectedCategories.length === 0) return products
     return products.filter((p) => selectedCategories.includes(p.category))
-  }, [selectedCategories])
+  }, [selectedCategories, products])
 
   const totalResults = filtered.length
   const totalPages = Math.max(1, Math.ceil(totalResults / ITEMS_PER_PAGE))

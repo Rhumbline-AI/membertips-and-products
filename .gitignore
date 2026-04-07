@@ -2,3 +2,5 @@ node_modules/
 dist/
 .DS_Store
 *.log
+fsf-product-grid.zip
+wordpress/fsf-product-grid/app/

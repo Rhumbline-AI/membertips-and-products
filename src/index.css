@@ -21,6 +21,14 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* Break out of WP theme containers (GeneratePress .grid-container, .inside-article, etc.) */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 /* Reset all elements inside the app so WP theme styles don't bleed in */
