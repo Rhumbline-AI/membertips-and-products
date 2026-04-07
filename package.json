@@ -8,7 +8,8 @@
     "build": "vite build",
     "build:wp": "vite build --mode wordpress",
     "preview": "vite preview",
-    "scrape-og": "node scripts/scrape-og-images.js"
+    "scrape-og": "node scripts/scrape-og-images.js",
+    "download-images": "node scripts/download-images.js"
   },
   "dependencies": {
     "react": "^19.0.0",

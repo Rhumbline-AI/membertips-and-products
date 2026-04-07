@@ -10,18 +10,6 @@
   --color-sidebar-bg: #f0f9fd;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-
 #fsf-product-grid {
   min-height: 100vh;
   background: linear-gradient(180deg, #dff1f9 0%, #c8e8f5 50%, #aed5ec 100%);
@@ -30,4 +18,111 @@ body {
   line-height: 1.5;
   color: #1f2937;
   padding: 32px 24px;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Reset all elements inside the app so WP theme styles don't bleed in */
+#fsf-product-grid *,
+#fsf-product-grid *::before,
+#fsf-product-grid *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#fsf-product-grid a {
+  color: inherit;
+  text-decoration: none;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+#fsf-product-grid a:hover,
+#fsf-product-grid a:focus,
+#fsf-product-grid a:active {
+  color: inherit;
+  text-decoration: none;
+  outline: none;
+  box-shadow: none;
+}
+
+#fsf-product-grid img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+
+#fsf-product-grid h1,
+#fsf-product-grid h2,
+#fsf-product-grid h3,
+#fsf-product-grid h4 {
+  font-family: inherit;
+  line-height: 1.3;
+  margin: 0;
+  padding: 0;
+  border: none;
+  color: inherit;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+#fsf-product-grid p {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+#fsf-product-grid label {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+#fsf-product-grid input[type="checkbox"] {
+  margin: 0;
+  padding: 0;
+  appearance: auto;
+  -webkit-appearance: checkbox;
+}
+
+#fsf-product-grid button {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+#fsf-product-grid button:focus {
+  outline: 2px solid #0284c7;
+  outline-offset: 2px;
+}
+
+#fsf-product-grid nav {
+  margin: 0;
+  padding: 0;
+}
+
+#fsf-product-grid span {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+#fsf-product-grid svg {
+  display: inline-block;
+  vertical-align: middle;
 }

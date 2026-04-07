@@ -1,6 +1,6 @@
 /* ─── Layout ─── */
 
-.fsf-layout {
+#fsf-product-grid .fsf-layout {
   display: grid;
   grid-template-columns: 260px 1fr;
   gap: 24px;
@@ -9,14 +9,14 @@
 }
 
 @media (max-width: 900px) {
-  .fsf-layout {
+  #fsf-product-grid .fsf-layout {
     grid-template-columns: 1fr;
   }
 }
 
 /* ─── Heading ─── */
 
-.fsf-heading {
+#fsf-product-grid .fsf-heading {
   font-size: 1.75rem;
   font-weight: 700;
   text-align: center;
@@ -27,7 +27,7 @@
 
 /* ─── Sidebar ─── */
 
-.fsf-sidebar {
+#fsf-product-grid .fsf-sidebar {
   background: rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(8px);
   border-radius: 12px;
@@ -37,7 +37,7 @@
   top: 24px;
 }
 
-.fsf-sidebar-header {
+#fsf-product-grid .fsf-sidebar-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -46,25 +46,25 @@
   border-bottom: 1px solid #d1e7f0;
 }
 
-.fsf-sidebar-title {
+#fsf-product-grid .fsf-sidebar-title {
   font-weight: 700;
   font-size: 0.875rem;
   letter-spacing: 0.05em;
   color: #1e3a5f;
 }
 
-.fsf-sidebar-count {
+#fsf-product-grid .fsf-sidebar-count {
   font-size: 0.8rem;
   color: #6b7280;
 }
 
-.fsf-filter-list {
+#fsf-product-grid .fsf-filter-list {
   display: flex;
   flex-direction: column;
   gap: 6px;
 }
 
-.fsf-filter-item {
+#fsf-product-grid .fsf-filter-item {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -75,11 +75,11 @@
   transition: color 0.15s;
 }
 
-.fsf-filter-item:hover {
+#fsf-product-grid .fsf-filter-item:hover {
   color: #0284c7;
 }
 
-.fsf-filter-item input[type="checkbox"] {
+#fsf-product-grid .fsf-filter-item input[type="checkbox"] {
   width: 16px;
   height: 16px;
   accent-color: #0284c7;
@@ -87,12 +87,12 @@
   flex-shrink: 0;
 }
 
-.fsf-filter-name {
+#fsf-product-grid .fsf-filter-name {
   flex: 1;
   line-height: 1.3;
 }
 
-.fsf-filter-count {
+#fsf-product-grid .fsf-filter-count {
   font-size: 0.8rem;
   color: #9ca3af;
   min-width: 20px;
@@ -101,27 +101,27 @@
 
 /* ─── Product Grid ─── */
 
-.fsf-card-grid {
+#fsf-product-grid .fsf-card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
 }
 
 @media (max-width: 768px) {
-  .fsf-card-grid {
+  #fsf-product-grid .fsf-card-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 480px) {
-  .fsf-card-grid {
+  #fsf-product-grid .fsf-card-grid {
     grid-template-columns: 1fr;
   }
 }
 
 /* ─── Cards ─── */
 
-.fsf-card {
+#fsf-product-grid .fsf-card {
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
@@ -133,20 +133,23 @@
   border: 1px solid #e5edf2;
 }
 
-.fsf-card:hover {
+#fsf-product-grid .fsf-card:hover {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   transform: translateY(-2px);
+  color: inherit;
+  text-decoration: none;
 }
 
-.fsf-card--no-link {
+#fsf-product-grid .fsf-card--no-link {
   cursor: default;
 }
-.fsf-card--no-link:hover {
+
+#fsf-product-grid .fsf-card--no-link:hover {
   box-shadow: none;
   transform: none;
 }
 
-.fsf-card-image {
+#fsf-product-grid .fsf-card-image {
   height: 120px;
   display: flex;
   align-items: center;
@@ -156,13 +159,16 @@
   padding: 16px;
 }
 
-.fsf-card-image img {
+#fsf-product-grid .fsf-card-image img {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 
-.fsf-card-placeholder {
+#fsf-product-grid .fsf-card-placeholder {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -175,14 +181,14 @@
   font-weight: 700;
 }
 
-.fsf-card-body {
+#fsf-product-grid .fsf-card-body {
   padding: 14px 16px 16px;
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
-.fsf-card-title {
+#fsf-product-grid .fsf-card-title {
   font-size: 0.95rem;
   font-weight: 700;
   margin: 0 0 6px 0;
@@ -190,14 +196,14 @@
   line-height: 1.3;
 }
 
-.fsf-card-desc {
+#fsf-product-grid .fsf-card-desc {
   font-size: 0.8rem;
   color: #6b7280;
   margin: 0 0 auto 0;
   line-height: 1.4;
 }
 
-.fsf-card-url {
+#fsf-product-grid .fsf-card-url {
   display: inline-flex;
   align-items: center;
   font-size: 0.875rem;
@@ -207,7 +213,7 @@
 
 /* ─── Empty State ─── */
 
-.fsf-empty {
+#fsf-product-grid .fsf-empty {
   text-align: center;
   padding: 48px 24px;
   color: #6b7280;
@@ -216,7 +222,7 @@
 
 /* ─── Pagination ─── */
 
-.fsf-pagination {
+#fsf-product-grid .fsf-pagination {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -225,7 +231,7 @@
   padding-bottom: 8px;
 }
 
-.fsf-page-btn {
+#fsf-product-grid .fsf-page-btn {
   min-width: 36px;
   height: 36px;
   display: inline-flex;
@@ -240,26 +246,31 @@
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s, color 0.15s;
   padding: 0 6px;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  text-decoration: none;
+  box-shadow: none;
 }
 
-.fsf-page-btn:hover:not(:disabled):not(.fsf-page-active) {
+#fsf-product-grid .fsf-page-btn:hover:not(:disabled):not(.fsf-page-active) {
   background: #f0f9ff;
   border-color: #93c5fd;
   color: #0284c7;
 }
 
-.fsf-page-btn:disabled {
+#fsf-product-grid .fsf-page-btn:disabled {
   opacity: 0.4;
   cursor: not-allowed;
 }
 
-.fsf-page-active {
+#fsf-product-grid .fsf-page-active {
   background: #0284c7;
   border-color: #0284c7;
   color: #fff;
 }
 
-.fsf-page-ellipsis {
+#fsf-product-grid .fsf-page-ellipsis {
   min-width: 36px;
   text-align: center;
   color: #9ca3af;

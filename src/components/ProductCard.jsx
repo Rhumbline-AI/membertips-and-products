@@ -1,6 +1,14 @@
 import { useState, useMemo } from 'react'
 import { ExternalLink } from 'lucide-react'
 
+const IMAGES_BASE = window.fsfConfig?.imagesUrl || '/images/'
+
+function resolveImage(ogImage) {
+  if (!ogImage) return ''
+  if (ogImage.startsWith('http://') || ogImage.startsWith('https://')) return ogImage
+  return IMAGES_BASE + ogImage
+}
+
 function extractDomain(url) {
   if (!url) return ''
   try {
@@ -14,7 +22,8 @@ function extractDomain(url) {
 function useImageFallback(ogImage, domain) {
   const sources = useMemo(() => {
     const s = []
-    if (ogImage) s.push(ogImage)
+    const resolved = resolveImage(ogImage)
+    if (resolved) s.push(resolved)
     if (domain) {
       s.push(`https://logo.clearbit.com/${domain}`)
       s.push(
