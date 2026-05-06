@@ -12,7 +12,8 @@
 
 /* Force the GeneratePress block parent to span full viewport */
 .gb-element-a10c3b93 {
-  min-width: 100vw !important;
+  min-width: 100% !important;
+  overflow-x: hidden;
 }
 
 /* Reset GP theme grid container left margin that pushes content off-center */
@@ -20,11 +21,11 @@
   margin-left: 0 !important;
 }
 
-/* Main wrapper: full-viewport breakout without the 50%/-50vw trick */
+/* Main wrapper: full-viewport breakout, 100% avoids scrollbar-caused overflow */
 .fsf-product-grid-wrapper {
   position: relative;
   overflow-x: hidden;
-  width: 100vw !important;
+  width: 100% !important;
   max-width: none !important;
 }
 
@@ -39,6 +40,9 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
 }
 
 /* Reset all elements inside the app so WP theme styles don't bleed in */

@@ -65,7 +65,7 @@ export default function App() {
 
   return (
     <>
-      <h1 className="fsf-heading">Member Recommended Products</h1>
+      <h1 className="fsf-heading">Explore products that our members have found helpful in managing Ichthyosis</h1>
       <div className="fsf-layout">
         <FilterSidebar
           categories={categories}

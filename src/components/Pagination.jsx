@@ -1,9 +1,9 @@
-import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from 'lucide-react'
+import { ChevronLeft, ChevronRight } from 'lucide-react'
 
 export default function Pagination({ currentPage, totalPages, onPageChange }) {
   function pageNumbers() {
     const pages = []
-    const maxVisible = 5
+    const maxVisible = 3
     let start = Math.max(1, currentPage - Math.floor(maxVisible / 2))
     let end = Math.min(totalPages, start + maxVisible - 1)
 
@@ -30,14 +30,6 @@ export default function Pagination({ currentPage, totalPages, onPageChange }) {
 
   return (
     <nav className="fsf-pagination" aria-label="Product pagination">
-      <button
-        onClick={() => onPageChange(1)}
-        disabled={currentPage === 1}
-        className="fsf-page-btn"
-        aria-label="First page"
-      >
-        <ChevronsLeft size={16} />
-      </button>
       <button
         onClick={() => onPageChange(currentPage - 1)}
         disabled={currentPage === 1}
@@ -71,14 +63,6 @@ export default function Pagination({ currentPage, totalPages, onPageChange }) {
         aria-label="Next page"
       >
         <ChevronRight size={16} />
-      </button>
-      <button
-        onClick={() => onPageChange(totalPages)}
-        disabled={currentPage === totalPages}
-        className="fsf-page-btn"
-        aria-label="Last page"
-      >
-        <ChevronsRight size={16} />
       </button>
     </nav>
   )
